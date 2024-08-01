@@ -13,6 +13,9 @@ Welcome to the Stock Market MERN App! This application allows users to view stoc
 3. Watchlist Page:-
 ![watchlist Page](./public/watchlist.png)
 
+4. Database :-
+![watchlist Page](./public/Db-ss.png)
+
 ## How It Works
 
 1. **Fetching Stock Data**: The app fetches stock data from a backend API and displays it on the Stocks page.
